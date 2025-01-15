@@ -1,9 +1,10 @@
-# Hello World
+# Heart Attack Prediction
 
-This is a text file that we are going to add to Git.
+The data set used consists of variables from patients and if they had a heart disease or attack.
 
-We will use Git to record all of the versions of this file,
-letting us move back and forth through time.
+The models for this predictive task and dataset performed quite poorly, as the accuracy from each model is good 
+but the F1-scores of each model were low, indicating low level of predicitive power and destinction between the classes
 
-For example, in this first version of the file we
-will say that the cat goes meow, and kittens are cute.
+Heart_attack.ipynb contains the code used for this task 
+
+Heart_attack.csv is the data set used
